@@ -1,7 +1,10 @@
 # HS Codes & Import Tax Analysis
- Project Overview
+ 
+![HS](https://github.com/user-attachments/assets/afa44eac-4408-419f-9884-a9b4ed7ac86a)
 
-This project involves analyzing Harmonized System (HS) codes and their associated import taxes to help optimize supply chain and logistics decisions. The goal is to provide insights into tax liabilities for various goods, streamline the classification process for international trade, and offer guidance on minimizing costs through efficient categorization of products.
+ 
+ Project Overview
+ This project involves analyzing Harmonized System (HS) codes and their associated import taxes to help optimize supply chain and logistics decisions. The goal is to provide insights into tax liabilities for various goods, streamline the classification process for international trade, and offer guidance on minimizing costs through efficient categorization of products.
 Dataset
 
 The dataset provided in the HS Codes & Import Tax - Exercise.xlsx file contains the following information:
