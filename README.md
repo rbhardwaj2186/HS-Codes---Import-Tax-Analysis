@@ -1,6 +1,7 @@
 # HS Codes & Import Tax Analysis
  
-![HS](https://github.com/user-attachments/assets/afa44eac-4408-419f-9884-a9b4ed7ac86a)
+![HS_](https://github.com/user-attachments/assets/dfd05579-14ba-44a8-94eb-756062eeaa9b)
+
 
  
  Project Overview
