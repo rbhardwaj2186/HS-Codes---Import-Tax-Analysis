@@ -1,6 +1,7 @@
 # HS Codes & Import Tax Analysis
  
-![HS_](https://github.com/user-attachments/assets/dfd05579-14ba-44a8-94eb-756062eeaa9b)
+<img src="https://github.com/user-attachments/assets/dfd05579-14ba-44a8-94eb-756062eeaa9b" alt="HS_" width="1000"/>
+
 
 
  
